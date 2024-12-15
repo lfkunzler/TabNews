@@ -1,6 +1,6 @@
 {
   inputs = {
-    systems.url = "github:nix-systems/nixos-24.11";
+    systems.url = "github:nix-systems/default";
   };
 
   outputs =
