@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>te amo <3</h1>
+    return <h1>te amo sz</h1>
 }
 
 export default Home;    // ha a possibilidade de varias funcoes serem exportadas
